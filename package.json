@@ -1,0 +1,23 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushGurg/restaurantpage.git"
+  },
+  "author": "Ayush Gurung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushGurg/restaurantpage/issues"
+  },
+  "homepage": "https://github.com/AyushGurg/restaurantpage#readme",
+  "devDependencies": {
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  }
+}
